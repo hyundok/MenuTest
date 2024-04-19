@@ -1,0 +1,360 @@
+﻿Log file open, 04/18/24 15:21:00
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=8080)
+LogWindows: Custom abort handler registered for crash reporting.
+LogInit: Display: Running engine for game: PuzzlePlatforms
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCore: Initializing trace...
+LogCore: Display: Requested channels: 'cpu,gpu,frame,log,bookmark,screenshot'
+LogCore: Finished trace initialization.
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.2-CL-26001984"
+LogCsvProfiler: Display: Metadata set : engineversion="5.2.1-26001984+++UE5+Release-5.2"
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (Release 1903) [10.0.18362.1082] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : asan="0"
+LogCsvProfiler: Display: Metadata set : commandline="" C:\Users\skm35\Desktop\1_Puzzle_Platforms-master\PuzzlePlatforms\PuzzlePlatforms.uproject""
+LogCsvProfiler: Display: Metadata set : loginid="0f8b31e14e5f352c7f660dad5fb79c72"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogStats: Stats thread started at 0.392517
+LogPluginManager: Adding extension module BinkMediaPlayer from BinkMedia_HoloLens to BinkMedia
+
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-B20F31A8412CC71A291EB5B1BE02C68F
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading HoloLens ini files took 0.07 seconds
+LogConfig: Display: Loading IOS ini files took 0.07 seconds
+LogConfig: Display: Loading Android ini files took 0.07 seconds
+LogConfig: Display: Loading Linux ini files took 0.13 seconds
+LogConfig: Display: Loading Mac ini files took 0.06 seconds
+LogConfig: Display: Loading TVOS ini files took 0.09 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.06 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.13 seconds
+LogConfig: Display: Loading Unix ini files took 0.08 seconds
+LogConfig: Display: Loading Windows ini files took 0.07 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin EnhancedInput
+LogPluginManager: Found config from plugin[EnhancedInput] Input
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin TraceUtilities
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin BlueprintHeaderView
+LogPluginManager: Mounting Engine plugin ChangelistReview
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin EngineAssetDefinitions
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin GLTFImporter
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin AudioWidgets
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin InputDebugging
+LogPluginManager: Found config from plugin[InputDebugging] Input
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin Metasound
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WaveTable
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin AnimationData
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin GLTFExporter
+LogPluginManager: Mounting Engine plugin VariantManager
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin Takes
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin DumpGPUServices
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin RenderDocPlugin
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin MediaPlate
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin InterchangeTests
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosCaching
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin ChaosUserDataPT
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin Dataflow
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin Fracture
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin ToolPresets
+LogPluginManager: Mounting Engine plugin UVEditor
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPluginManager: Mounting Engine plugin LightMixer
+LogPluginManager: Mounting Engine plugin ObjectMixer
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/TraceUtilities/Content/' mounted to '/TraceUtilities/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/BlueprintHeaderView/Content/' mounted to '/BlueprintHeaderView/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GLTFImporter/Content/' mounted to '/GLTFImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioWidgets/Content/' mounted to '/AudioWidgets/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Metasound/Content/' mounted to '/Metasound/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/WaveTable/Content/' mounted to '/WaveTable/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/GLTFExporter/Content/' mounted to '/GLTFExporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/VirtualProduction/Takes/Content/' mounted to '/Takes/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaPlate/Content/' mounted to '/MediaPlate/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Interchange/Runtime/Content/' mounted to '/Interchange/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosCaching/Content/' mounted to '/ChaosCaching/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/Dataflow/Content/' mounted to '/Dataflow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/UVEditor/Content/' mounted to '/UVEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ObjectMixer/LightMixer/Content/' mounted to '/LightMixer/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ObjectMixer/ObjectMixer/Content/' mounted to '/ObjectMixer/'
+SourceControl: Revision control is disabled
+SourceControl: Revision control is disabled
+SourceControl: Revision control is disabled
+LogInit: Warning: Incompatible or missing module: PuzzlePlatforms
+Running C:/Program Files/Epic Games/UE_5.2/Engine/Build/BatchFiles/Build.bat Development Win64 -Project="C:/Users/skm35/Desktop/1_Puzzle_Platforms-master/PuzzlePlatforms/PuzzlePlatforms.uproject" -TargetType=Editor -Progress -NoEngineChanges -NoHotReloadFromIDE
+Using bundled DotNet SDK version: 6.0.302
+Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" Development Win64 -Project="C:/Users/skm35/Desktop/1_Puzzle_Platforms-master/PuzzlePlatforms/PuzzlePlatforms.uproject" -TargetType=Editor -Progress -NoEngineChanges -NoHotReloadFromIDE
+Log file: C:\Users\skm35\AppData\Local\UnrealBuildTool\Log.txt
+Creating makefile for PuzzlePlatformsEditor (no existing makefile)
+@progress push 5%
+Parsing headers for PuzzlePlatformsEditor
+  Running Internal UnrealHeaderTool C:\Users\skm35\Desktop\1_Puzzle_Platforms-master\PuzzlePlatforms\PuzzlePlatforms.uproject C:\Users\skm35\Desktop\1_Puzzle_Platforms-master\PuzzlePlatforms\Intermediate\Build\Win64\PuzzlePlatformsEditor\Development\PuzzlePlatformsEditor.uhtmanifest -WarningsAsErrors -installed
+Total of 0 written
+Reflection code generated for PuzzlePlatformsEditor in 1.6175297 seconds
+@progress pop
+Building PuzzlePlatformsEditor...
+Using Visual Studio 2022 14.40.33617 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.40.33617) and Windows 10.0.22621.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[Upgrade]
+[Upgrade] Using backward-compatible build settings. The latest version of UE sets the following values by default, which may require code changes:
+[Upgrade]     bLegacyPublicIncludePaths = false                 => Omits subfolders from public include paths to reduce compiler command line length. (Previously: true).
+[Upgrade]     ShadowVariableWarningLevel = WarningLevel.Error   => Treats shadowed variable warnings as errors. (Previously: WarningLevel.Warning).
+[Upgrade]     PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs   => Set in build.cs files to enables IWYU-style PCH model. See https://docs.unrealengine.com/en-US/Programming/BuildTools/UnrealBuildTool/IWYU/index.html. (Previously: PCHUsageMode.UseSharedPCHs).
+[Upgrade] Suppress this message by setting 'DefaultBuildSettings = BuildSettingsVersion.V2;' in PuzzlePlatformsEditor.Target.cs, and explicitly overriding settings that differ from the new defaults.
+[Upgrade]
+[Upgrade]
+[Upgrade] Using backward-compatible include order. The latest version of UE has changed the order of includes, which may require code changes. The current setting is:
+[Upgrade]     IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_0
+[Upgrade] Suppress this message by setting 'IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_2;' in PuzzlePlatformsEditor.Target.cs.
+[Upgrade] Alternatively you can set this to 'EngineIncludeOrderVersion.Latest' to always use the latest include order. This will potentially cause compile errors when integrating new versions of the engine.
+[Upgrade]
+Determining max actions to execute in parallel (4 physical cores, 8 logical cores)
+  Executing up to 4 processes, one per physical core
+Building 21 actions with 4 processes...
+[1/21] Resource Default.rc2
+[2/21] Compile [x64] SharedPCH.Engine.InclOrderUnreal5_0.cpp
+Detected compiler newer than Visual Studio 2022, please update min version checking in WindowsPlatformCompilerSetup.h
+[3/21] Compile [x64] PuzzlePlatforms.init.gen.cpp
+[4/21] Compile [x64] PuzzlePlatformsGameMode.gen.cpp
+[5/21] Compile [x64] PuzzlePlatformsGameInstance.gen.cpp
+[6/21] Compile [x64] MovingPlatform.cpp
+[7/21] Compile [x64] PuzzlePlatformsGameMode.cpp
+[8/21] Compile [x64] PuzzlePlatformsCharacter.cpp
+[9/21] Compile [x64] PuzzlePlatforms.cpp
+[10/21] Compile [x64] PlatformTrigger.cpp
+[11/21] Compile [x64] PlatformTrigger.gen.cpp
+[12/21] Compile [x64] MenuInterface.cpp
+[13/21] Compile [x64] MainMenu.cpp
+C:\Users\skm35\Desktop\1_Puzzle_Platforms-master\PuzzlePlatforms\Source\PuzzlePlatforms\MainMenu.cpp(45): error C2440: '???? ?': 'UEditableTextBox *'???? 'const FString &'(?)????ȯ? ?????ϴ?
+C:\Users\skm35\Desktop\1_Puzzle_Platforms-master\PuzzlePlatforms\Source\PuzzlePlatforms\MainMenu.cpp(45): note: ??? 'UEditableTextBox *'???? 'const FString'(?)????ȯ? ?????ϴ?
+C:\Users\skm35\Desktop\1_Puzzle_Platforms-master\PuzzlePlatforms\Source\PuzzlePlatforms\MainMenu.cpp(45): note: 'FString::FString': ?? ??????? ??ȯ? ?????????? ??????ϴ?
+C:\Program Files\Epic Games\UE_5.2\Engine\Source\Runtime\Core\Public\Containers\UnrealString.h(108): note: 'FString::FString(FString &&)'? ?????ϴ?
+C:\Users\skm35\Desktop\1_Puzzle_Platforms-master\PuzzlePlatforms\Source\PuzzlePlatforms\MainMenu.cpp(45): note: 'FString::FString(FString &&)': ???1?(??) 'UEditableTextBox *'???? 'FString &&'(?)????ȯ? ?????ϴ?
+C:\Users\skm35\Desktop\1_Puzzle_Platforms-master\PuzzlePlatforms\Source\PuzzlePlatforms\MainMenu.cpp(45): note: ??? 'UEditableTextBox *'???? 'FString'(?)????ȯ? ?????ϴ?
+C:\Users\skm35\Desktop\1_Puzzle_Platforms-master\PuzzlePlatforms\Source\PuzzlePlatforms\MainMenu.cpp(45): note: ??ȯ??????? ??? ?? ??ȯ ??????Ǵ???ڰ? ??? ??ϴ?
+C:\Program Files\Epic Games\UE_5.2\Engine\Source\Runtime\Core\Public\Containers\UnrealString.h(109): note: ?Ǵ?      'FString::FString(const FString &)'
+C:\Users\skm35\Desktop\1_Puzzle_Platforms-master\PuzzlePlatforms\Source\PuzzlePlatforms\MainMenu.cpp(45): note: 'FString::FString(const FString &)': ???1?(??) 'UEditableTextBox *'???? 'const FString &'(?)????ȯ? ?????ϴ?
+C:\Users\skm35\Desktop\1_Puzzle_Platforms-master\PuzzlePlatforms\Source\PuzzlePlatforms\MainMenu.cpp(45): note: ??? 'UEditableTextBox *'???? 'const FString'(?)????ȯ? ?????ϴ?
+C:\Users\skm35\Desktop\1_Puzzle_Platforms-master\PuzzlePlatforms\Source\PuzzlePlatforms\MainMenu.cpp(45): note: ??ȯ??????? ??? ?? ??ȯ ??????Ǵ???ڰ? ??? ??ϴ?
+C:\Program Files\Epic Games\UE_5.2\Engine\Source\Runtime\Core\Public\Containers\UnrealString.h(139): note: ?Ǵ?      'FString::FString(const UCS2CHAR *)'
+C:\Users\skm35\Desktop\1_Puzzle_Platforms-master\PuzzlePlatforms\Source\PuzzlePlatforms\MainMenu.cpp(45): note: 'FString::FString(const UCS2CHAR *)': ???1?(??) 'UEditableTextBox *'???? 'const UCS2CHAR *'(?)????ȯ? ?????ϴ?
+C:\Users\skm35\Desktop\1_Puzzle_Platforms-master\PuzzlePlatforms\Source\PuzzlePlatforms\MainMenu.cpp(45): note: ????Ų ??????? ???ϴ? ??ȯ????reinterpret_cast, C ??Ÿ? ĳ??Ʈ ?Ǵ?????? ????????Ÿ? ĳ??Ʈ?? ???մϴ?
+C:\Program Files\Epic Games\UE_5.2\Engine\Source\Runtime\Core\Public\Containers\UnrealString.h(138): note: ?Ǵ?      'FString::FString(const UTF8CHAR *)'
+C:\Users\skm35\Desktop\1_Puzzle_Platforms-master\PuzzlePlatforms\Source\PuzzlePlatforms\MainMenu.cpp(45): note: 'FString::FString(const UTF8CHAR *)': ???1?(??) 'UEditableTextBox *'???? 'const UTF8CHAR *'(?)????ȯ? ?????ϴ?
+C:\Users\skm35\Desktop\1_Puzzle_Platforms-master\PuzzlePlatforms\Source\PuzzlePlatforms\MainMenu.cpp(45): note: ????Ų ??????? ???ϴ? ??ȯ????reinterpret_cast, C ??Ÿ? ĳ??Ʈ ?Ǵ?????? ????????Ÿ? ĳ??Ʈ?? ???մϴ?
+C:\Program Files\Epic Games\UE_5.2\Engine\Source\Runtime\Core\Public\Containers\UnrealString.h(137): note: ?Ǵ?      'FString::FString(const WIDECHAR *)'
+C:\Users\skm35\Desktop\1_Puzzle_Platforms-master\PuzzlePlatforms\Source\PuzzlePlatforms\MainMenu.cpp(45): note: 'FString::FString(const WIDECHAR *)': ???1?(??) 'UEditableTextBox *'???? 'const WIDECHAR *'(?)????ȯ? ?????ϴ?
+C:\Users\skm35\Desktop\1_Puzzle_Platforms-master\PuzzlePlatforms\Source\PuzzlePlatforms\MainMenu.cpp(45): note: ????Ų ??????? ???ϴ? ??ȯ????reinterpret_cast, C ??Ÿ? ĳ??Ʈ ?Ǵ?????? ????????Ÿ? ĳ??Ʈ?? ???մϴ?
+C:\Program Files\Epic Games\UE_5.2\Engine\Source\Runtime\Core\Public\Containers\UnrealString.h(136): note: ?Ǵ?      'FString::FString(const ANSICHAR *)'
+C:\Users\skm35\Desktop\1_Puzzle_Platforms-master\PuzzlePlatforms\Source\PuzzlePlatforms\MainMenu.cpp(45): note: 'FString::FString(const ANSICHAR *)': ???1?(??) 'UEditableTextBox *'???? 'const ANSICHAR *'(?)????ȯ? ?????ϴ?
+C:\Users\skm35\Desktop\1_Puzzle_Platforms-master\PuzzlePlatforms\Source\PuzzlePlatforms\MainMenu.cpp(45): note: ????Ų ??????? ???ϴ? ??ȯ????reinterpret_cast, C ??Ÿ? ĳ??Ʈ ?Ǵ?????? ????????Ÿ? ĳ??Ʈ?? ???մϴ?
+C:\Users\skm35\Desktop\1_Puzzle_Platforms-master\PuzzlePlatforms\Source\PuzzlePlatforms\MainMenu.cpp(45): note: ????? '(UEditableTextBox *)'?(??) ?ġ?????????
+C:\Users\skm35\Desktop\1_Puzzle_Platforms-master\PuzzlePlatforms\Source\PuzzlePlatforms\MainMenu.cpp(64): warning C4458: 'MenuInterface' ????? Ŭ???? ???? ???ϴ?
+C:\Users\skm35\Desktop\1_Puzzle_Platforms-master\PuzzlePlatforms\Source\PuzzlePlatforms\MainMenu.h(58): note: 'UMainMenu::MenuInterface' ????? ????ʽÿ?
+C:\Users\skm35\Desktop\1_Puzzle_Platforms-master\PuzzlePlatforms\Source\PuzzlePlatforms\MainMenu.cpp(90): warning C4996: 'UUserWidget::RemoveFromViewport': RemoveFromViewport is deprecated. Use RemoveFromParent instead. Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+[14/21] Compile [x64] MovingPlatform.gen.cpp
+[15/21] Compile [x64] MenuInterface.gen.cpp
+[16/21] Compile [x64] PuzzlePlatformsCharacter.gen.cpp
+[17/21] Compile [x64] PuzzlePlatformsGameInstance.cpp
+[18/21] Compile [x64] MainMenu.gen.cpp
+[19/21] Link [x64] UnrealEditor-PuzzlePlatforms.lib cancelled
+[20/21] Link [x64] UnrealEditor-PuzzlePlatforms.dll cancelled
+[21/21] WriteMetadata PuzzlePlatformsEditor.target cancelled
+LogInit: Warning: Still incompatible or missing module: PuzzlePlatforms
+LogCore: Engine exit requested (reason: EngineExit() was called)
+LogExit: Preparing to exit.
+LogVirtualization: UE::Virtualization was shutdown
+LogModuleManager: Shutting down and abandoning module DesktopPlatform (60)
+LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (58)
+LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (56)
+LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (54)
+LogModuleManager: Shutting down and abandoning module PlatformCrypto (52)
+LogModuleManager: Shutting down and abandoning module PlasticSourceControl (50)
+LogModuleManager: Shutting down and abandoning module PerforceSourceControl (48)
+LogModuleManager: Shutting down and abandoning module SourceControl (47)
+LogModuleManager: Shutting down and abandoning module XGEController (44)
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogXGEController: Cleaning working directory: C:/Users/skm35/AppData/Local/Temp/UnrealXGEWorkingDir/
+LogModuleManager: Shutting down and abandoning module FastBuildController (42)
+LogModuleManager: Shutting down and abandoning module AnimationModifiers (40)
+LogModuleManager: Shutting down and abandoning module AudioEditor (38)
+LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+LogModuleManager: Shutting down and abandoning module Virtualization (34)
+LogModuleManager: Shutting down and abandoning module MessageLog (33)
+LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+LogModuleManager: Shutting down and abandoning module RenderCore (28)
+LogModuleManager: Shutting down and abandoning module Landscape (26)
+LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (22)
+LogModuleManager: Shutting down and abandoning module Renderer (20)
+LogModuleManager: Shutting down and abandoning module Engine (18)
+LogModuleManager: Shutting down and abandoning module CoreUObject (16)
+LogModuleManager: Shutting down and abandoning module SandboxFile (14)
+LogModuleManager: Shutting down and abandoning module PakFile (12)
+LogModuleManager: Shutting down and abandoning module RSA (11)
+LogModuleManager: Shutting down and abandoning module NetworkFile (8)
+LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+LogModuleManager: Shutting down and abandoning module CookOnTheFly (4)
+LogModuleManager: Shutting down and abandoning module StorageServerClient (2)
+LogExit: Exiting.
+Log file closed, 04/18/24 15:22:01
