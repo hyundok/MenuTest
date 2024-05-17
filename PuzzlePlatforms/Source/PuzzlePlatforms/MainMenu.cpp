@@ -5,7 +5,7 @@
 
 #include "Components/Button.h"
 #include "Components/WidgetSwitcher.h"
-#include "Components/EditableTextBox.h"
+#include "Components/EditableText.h"
 
 bool UMainMenu::Initialize()
 {
@@ -44,8 +44,8 @@ void UMainMenu::JoinServer()
 {
 	if (MenuInterface != nullptr)
 	{
-		if (!ensure(IPAddressTextBox != nullptr)) return;
-		const FString& Address = IPAddressTextBox->GetText().ToString();
+		if (!ensure(IPAddressText != nullptr)) return;
+		const FString& Address = IPAddressText->GetText().ToString();
 		MenuInterface->Join(Address);
 	}
 }

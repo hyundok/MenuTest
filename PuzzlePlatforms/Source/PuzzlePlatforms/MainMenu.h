@@ -31,7 +31,7 @@ private:
 	class UWidget* JoinMenu;
 
 	UPROPERTY(meta = (BindWidget))
-	class UEditableTextBox* IPAddressTextBox;
+	class UEditableText* IPAddressText;
 
 	UPROPERTY(meta = (BindWidget))
 	class UWidget* MainMenu;
